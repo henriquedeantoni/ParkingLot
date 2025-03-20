@@ -5,12 +5,12 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot", "ParkingLot.csproj", "{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.Models", "..\ParkingLot.Models\ParkingLot.Models.csproj", "{A4CDABC7-7876-43C4-8236-8759485E9108}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{960EE964-2EEE-4CD8-BBE1-1EC409FCB440}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.Models", "ParkingLot.Models\ParkingLot.Models.csproj", "{7AE79831-D5A7-4D97-B4AE-2260F008E34E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A4CDABC7-7876-43C4-8236-8759485E9108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4CDABC7-7876-43C4-8236-8759485E9108}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4CDABC7-7876-43C4-8236-8759485E9108}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4CDABC7-7876-43C4-8236-8759485E9108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
