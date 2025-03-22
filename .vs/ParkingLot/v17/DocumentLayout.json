@@ -3,31 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot\\parkinglot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|solutionrelative:parkinglot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1E18AD4B-F6FE-4E0E-869A-C5CA2FE1033E}|ParkingLot.Data\\ParkingLot.Data.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot\\parkinglot.data\\data\\parkinglotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18AD4B-F6FE-4E0E-869A-C5CA2FE1033E}|ParkingLot.Data\\ParkingLot.Data.csproj|solutionrelative:parkinglot.data\\data\\parkinglotcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CDABC7-7876-43C4-8236-8759485E9108}|..\\ParkingLot.Models\\ParkingLot.Models.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\parkinglot.models.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1E18AD4B-F6FE-4E0E-869A-C5CA2FE1033E}|ParkingLot.Data\\ParkingLot.Data.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot\\parkinglot.data\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18AD4B-F6FE-4E0E-869A-C5CA2FE1033E}|ParkingLot.Data\\ParkingLot.Data.csproj|solutionrelative:parkinglot.data\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CDABC7-7876-43C4-8236-8759485E9108}|..\\ParkingLot.Models\\ParkingLot.Models.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\parkinglot.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\parkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444B90C2-BF97-4D7E-AE35-23B3C8AC4B26}|ParkingLot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CDABC7-7876-43C4-8236-8759485E9108}|..\\ParkingLot.Models\\ParkingLot.Models.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\parkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4CDABC7-7876-43C4-8236-8759485E9108}|..\\ParkingLot.Models\\ParkingLot.Models.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4CDABC7-7876-43C4-8236-8759485E9108}|..\\ParkingLot.Models\\ParkingLot.Models.csproj|c:\\users\\henrique\\documents\\cursonet\\parking-lot-api\\parkinglot.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,45 +43,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingLotContext.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Data\\Data\\ParkingLotContext.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Data\\Data\\ParkingLotContext.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Data\\Data\\ParkingLotContext.cs",
+              "RelativeToolTip": "ParkingLot.Data\\Data\\ParkingLotContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:02:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ParkingLot.Models",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "RelativeDocumentMoniker": "..\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "RelativeToolTip": "..\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T04:59:49.878Z",
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Data\\Data\\DAL.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Data\\Data\\DAL.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Data\\Data\\DAL.cs",
+              "RelativeToolTip": "ParkingLot.Data\\Data\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:48:53.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ParkingLot.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "RelativeDocumentMoniker": "..\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "RelativeToolTip": "..\\ParkingLot.Models\\ParkingLot.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T04:42:43.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ParkingLot.csproj",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.csproj",
-              "RelativeDocumentMoniker": "ParkingLot.csproj",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.csproj",
-              "RelativeToolTip": "ParkingLot.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T04:40:35.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -91,47 +77,48 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-03-20T04:32:10.986Z"
+              "WhenOpened": "2025-03-20T04:32:10.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ParkingSession.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingSession.cs",
-              "RelativeDocumentMoniker": "..\\ParkingLot.Models\\ParkingSession.cs",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\ParkingSession.cs",
-              "RelativeToolTip": "..\\ParkingLot.Models\\ParkingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\ParkingSession.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Models\\ParkingSession.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\ParkingSession.cs",
+              "RelativeToolTip": "ParkingLot.Models\\ParkingSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:19:29.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "..\\ParkingLot.Models\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\Vehicle.cs",
-              "RelativeToolTip": "..\\ParkingLot.Models\\Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\Vehicle.cs",
+              "RelativeToolTip": "ParkingLot.Models\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:08:23.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\ParkingLot.Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot.Models\\Customer.cs",
-              "RelativeToolTip": "..\\ParkingLot.Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ParkingLot.Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\ParkingLot.Models\\Customer.cs",
+              "RelativeToolTip": "ParkingLot.Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:01:43.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\Parking-Lot-Api\\ParkingLot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
