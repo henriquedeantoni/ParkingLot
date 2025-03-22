@@ -1,6 +1,6 @@
 ﻿namespace ParkingLot.Models;
 
-internal class ParkingSession
+public class ParkingSession
 {
 
     public decimal Interval { get; set; }
