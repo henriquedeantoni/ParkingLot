@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.Models", "ParkingLot.Models\ParkingLot.Models.csproj", "{7AE79831-D5A7-4D97-B4AE-2260F008E34E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.Dados", "ParkingLot.Data\ParkingLot.Dados.csproj", "{94A3A775-C070-47B0-84AA-DB8FF004BBB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE79831-D5A7-4D97-B4AE-2260F008E34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A3A775-C070-47B0-84AA-DB8FF004BBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A3A775-C070-47B0-84AA-DB8FF004BBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A3A775-C070-47B0-84AA-DB8FF004BBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A3A775-C070-47B0-84AA-DB8FF004BBB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
