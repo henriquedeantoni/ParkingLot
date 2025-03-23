@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ParkingLot.Data.Data
 {
-    public class ParkingLotContext
+    public class ParkingLotContext : DbContext
     {
         public DbSet<Customer> Customers { get; set; }
         public DbSet<ParkingSession> ParkingSessions { get; set; }
