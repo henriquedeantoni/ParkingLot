@@ -13,5 +13,20 @@ public class Vehicle
     public string VehicleModel { get; set; }
     public string Brand { get; set; }
     public string LicensePlate { get; set; }
+    public virtual Customer Customer { get; set; }
+
+    public void ShowVehicleInformation()
+    {
+        Console.WriteLine($"LicensePlate: {LicensePlate}");
+    }
+
+    public override string ToString()
+    {
+        return $@"Id: {Id}
+        Vehicle Model: {VehicleModel}
+        Brand: {Brand}
+        License Plate: {LicensePlate}
+        ";
+    }
 
 }

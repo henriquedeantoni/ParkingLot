@@ -31,4 +31,15 @@ public class Customer
         Vehicles.Add(vehicle);
     }
 
+    public void ShowParkingSessionList()
+    {
+        Console.WriteLine("----------------------------------------------");
+        Console.WriteLine($"Parking Sessions from {Name}");
+        foreach(var parkingSession in ParkingSessions)
+        {
+            Console.WriteLine($"Session initiated: {parkingSession.StartDate}");
+            Console.WriteLine($"Session interval: {parkingSession.Interval}");
+        }
+    }
+
 }
