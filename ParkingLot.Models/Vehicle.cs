@@ -13,7 +13,7 @@ public class Vehicle
     public string VehicleModel { get; set; }
     public string Brand { get; set; }
     public string LicensePlate { get; set; }
-    public virtual Customer Customer { get; set; }
+    public virtual Customer? Customer { get; set; }
 
     public void ShowVehicleInformation()
     {
