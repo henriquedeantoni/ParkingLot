@@ -1,10 +1,10 @@
-#ParkingLot API
+# ParkingLot API
 
-##Introduction
+## Introduction
 
 ParkingLot API is a RESTful service designed to manage parking lots efficiently. This project was inspired by a friend who was starting a parking business and needed a robust system to handle parking operations.
 
-##Features
+## Features
 
 - Vehicle check-in and check-out
 
@@ -16,9 +16,9 @@ ParkingLot API is a RESTful service designed to manage parking lots efficiently.
 
 - Reports and analytics
 
-##Technologies Used
+## Technologies Used
 
-###Backend: .NET Core, Entity Framework
+### Backend: .NET Core, Entity Framework
 
 Database: SQL Server 
 
@@ -26,5 +26,5 @@ Authentication: JWT-based authentication (to implement)
 
 Deployment: Docker, Kubernetes (to implement)
 
-###Installation
+### Installation
 
