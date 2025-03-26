@@ -10,6 +10,8 @@ public class Vehicle
         LicensePlate = licensePlate;
     }
     public int Id { get; set; }
+    public bool CheckOut { get; set; }
+    public bool CheckIn { get; set; }
     public string VehicleModel { get; set; }
     public string Brand { get; set; }
     public string LicensePlate { get; set; }
