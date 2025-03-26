@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace ParkingLot.Models
 {
-    internal class BusinessUnit
+    public class BusinessUnit
     {
-        public virtual ICollection<Location> Locations { get; set; } = new List<Location>(); 
+        public virtual ICollection<ParkingSpot> ParkingSpots { get; set; } = new List<ParkingSpot>(); 
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string ContactNumber { get; set; }
         public string StreetAddress { get; set; }
         public string City { get; set; }
         public BusinessUnit() { }
