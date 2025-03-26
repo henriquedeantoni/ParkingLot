@@ -13,5 +13,8 @@ namespace ParkingLot.Data.Data
         public DbSet<Customer> Customers { get; set; }
         public DbSet<ParkingSession> ParkingSessions { get; set; }
         public DbSet<Vehicle> Vehicles { get; set; }
+        public DbSet<ParkingSpot> Locations { get; set; }
+        public DbSet<BusinessUnit> BusinessUnits { get; set; }
+        
     }
 }

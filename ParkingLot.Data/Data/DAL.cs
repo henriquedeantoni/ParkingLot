@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -42,5 +44,19 @@ namespace ParkingLot.Data.Data
         {
             return context.Set<T>().FirstOrDefault(condition);
         }
+
+        public async Task<IEnumerable<T>> ListAsyncPagination(
+            int page, int pageSize, Expression<Func<T, object>>? orderBy = null, bool ascending = true )
+            {
+            var query = context.Set<T>().AsQueryable();
+
+            if (orderBy != null)
+            {
+                query = ascending ? query.OrderBy(orderBy) : query.OrderByDescending(orderBy);
+            }
+
+            return await query.Skip((page - 1) * pageSize)
+                .Take(pageSize).ToListAsync();
+            }
     }
 }
