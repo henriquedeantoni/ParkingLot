@@ -15,6 +15,8 @@ namespace ParkingLot.Data.Data
         public DbSet<Vehicle> Vehicles { get; set; }
         public DbSet<ParkingSpot> Locations { get; set; }
         public DbSet<BusinessUnit> BusinessUnits { get; set; }
-        
+
+        private string connection = EnvConfig.GetEnvVariable("STRING_CONNECTION");
+
     }
 }
