@@ -18,5 +18,22 @@ namespace ParkingLot.Data.Data
 
         private string connection = EnvConfig.GetEnvVariable("STRING_CONNECTION");
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(connection);
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Customer>()
+                        .HasMany(c => c.Vehicles)
+                        .WithOne(c => c.Customer);
+
+            modelBuilder.Entity<Customer>()
+                        .HasMany(c => c.ParkingSessions)
+                        .WithOne(c => c.Customer);
+
+        }
+
     }
 }
